@@ -1,0 +1,1 @@
+python /workspace/pred_abdom.py -i $1 -o $2 -m 'pixel'
